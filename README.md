@@ -7,7 +7,7 @@
 2. Add this bucket to scoop:
 
 ```
-scoop bucket add mcs https://github.com/mthmulders/scoop-mcs.git
+scoop bucket add mthmulders https://github.com/mthmulders/scoop-mcs.git
 ```
 
 3. Install tools via `scoop install`:
